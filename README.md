@@ -1,3 +1,3 @@
-# Sample server
+# Simple server
 
-Sample server for managing requests
+Simple server for managing requests
